@@ -270,9 +270,6 @@ Healthcare-Lakehouse-Analytics
 ├── sql/
 │   └── analysis.sql
 │
-├── dashboards/
-│   └── Healthcare_Analytics_Dashboard.pbix
-│
 ├── data/
 │   ├── raw/
 │   ├── bronze/
@@ -292,7 +289,8 @@ Add your final dashboard screenshot here.
 Example:
 
 ```markdown
-![Healthcare Dashboard](docs/dashboard.png)
+<img width="1307" height="727" alt="HealthCare Dashboard" src="https://github.com/user-attachments/assets/049de51a-bcac-4518-b761-f2890772ad41" />
+
 ```
 
 ---
